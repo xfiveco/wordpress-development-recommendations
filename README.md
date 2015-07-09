@@ -52,10 +52,10 @@ Social media buttons are blamed for their poor performance and privacy offending
 - Good performance (6.8/10), no cookies set
 - Needs sign up
 - WP plugin just redirects to Flare account
-- Doesn’t display on mobile at all which makes it really usable only with [Pro version](https://app.filament.io/product_licenses/4/yearly) ($89 / year)
+- Doesn’t display on mobile at all which makes it really usable only with [Pro version](http://filament.io/flare#comparison) ($89 / year)
 - Slightly cumbersome setup
 
-### Not recommended as solutions
+### Not recommended
 The following solutions are not recommended due to low performance, privacy issues, inconsistent displaying or other reasons.
 
 #### [AddThis](https://wordpress.org/plugins/addthis/)
