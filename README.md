@@ -63,7 +63,7 @@ The following solutions are not recommended due to low performance, privacy issu
 - 9 cookies set (7 3rd party cookies)
 - Only shows aggregated count, doesn’t count shares correctly
 - Easy to use WP admin
-- **Not recommended due to privacy concerns**
+- **Not recommended due to problematic shares count and privacy concerns**
 
 #### [AddToAny](https://wordpress.org/plugins/add-to-any/)
 - Poor performance (3.3/10)
@@ -71,7 +71,7 @@ The following solutions are not recommended due to low performance, privacy issu
 - Doesn’t hide zeroes, only displays standard Google+ button
 - 3 cookies set
 - Easy to use WP admin
-- **Not recommended due to low performance**
+- **Not recommended due to low performance and inconsistent look & feel**
 
 #### [Shareaholic](https://wordpress.org/plugins/shareaholic/)
 - Poor performance (3.5/10)
@@ -87,7 +87,7 @@ The following solutions are not recommended due to low performance, privacy issu
 - Inflexible setup and updates
 - **Not recommended due to low performance, inflexible setup and inconsistent look & feel**
 
-#### [Sharethis](https://wordpress.org/plugins/share-this/)
+#### [ShareThis](https://wordpress.org/plugins/share-this/)
 - Very poor performance (1.1/10)
 - 36 requests made and 469kB loaded on document complete event
 - Buttons with counters not displaying correctly
